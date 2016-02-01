@@ -8,3 +8,4 @@ describe "Hello World" do
   end
 
 end
+puts "hello_world"
